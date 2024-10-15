@@ -3,7 +3,7 @@ package javatest;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class IntOverflow{
+public class bmi{
 	public static void main(String[] args){
 		
 		var height = new Scanner(System.in);
